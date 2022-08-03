@@ -8,7 +8,6 @@ I currently work at Decagon but open to new opportunities. You can reach me via:
 
 Let's connect:
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/OnyibaluVitus)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/somto-vitus-onyibalu-1485abb5/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=red&color=white)](https://www.instagram.com/onyibalu_v/)
 
