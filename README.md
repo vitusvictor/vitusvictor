@@ -1,7 +1,7 @@
 ### Hello, welcome
 I'm Vitus, a fullstack developer. I mostly enjoy writing in Java, Javascript and Python. 
 
-I currently work at Decagon but open to new opportunities. You can reach me via: vitusvictor41@gmail.com or any of the links below.
+You may reach me on vitusvictor41@gmail.com.
 
 ---
 
