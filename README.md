@@ -1,5 +1,5 @@
 ### Hello, welcome
-I'm Vitus, a fullstack developer. I mostly enjoy writing in Java, Javascript and Python. 
+I'm Somtochukwu, a fullstack developer. I mostly enjoy writing in Java, Javascript and Python. 
 
 You may reach me on vitusvictor41@gmail.com.
 
