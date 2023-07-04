@@ -9,8 +9,7 @@ Let's connect:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/somto-vitus-onyibalu-1485abb5/)
 
-![](https://komarev.com/ghpvc/?username=vitusvictor&color=blue)
-![image title](https://rushter.com/counter.svg)
+//![](https://komarev.com/ghpvc/?username=vitusvictor&color=blue)
 
 ---
 
