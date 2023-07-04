@@ -9,6 +9,7 @@ Let's connect:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/somto-vitus-onyibalu-1485abb5/)
 
+![](https://github.com/vitusvictor/ghpvc/?username=vitusvictor&color=green)
 
 ---
 
