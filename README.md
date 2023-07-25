@@ -1,5 +1,10 @@
 ### Hello, welcome
-I'm Somtochukwu, a fullstack developer. I mostly enjoy writing in Java, Javascript and Python. 
+I'm Somtochukwu, a fullstack developer. I mostly write Java, Javascript and Python. I occationally do Flutter.
+
+I currentyly volunteer at <a href="https://www.linkedin.com/company/her-braces/" target="_blank">HerBraces</a>. Where girls
+are taught to program.
+
+I am open for new roles.
 
 You may reach me on vitusvictor41@gmail.com.
 
