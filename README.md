@@ -1,16 +1,18 @@
 ### Hello, welcome
-I'm Somtochukwu, a fullstack developer. I mostly write Java (Springboot), Javascript(React) and Python. I occationally do Dart(Flutter).
+💡 I'm Somtochukwu, a fullstack developer. I mostly write Java (Springboot), Javascript(React) and Python. I occationally do Dart(Flutter).
 
-I currentyly volunteer at <a href="https://www.linkedin.com/company/her-braces/" target="_blank">HerBraces</a>. Where girls
+🎯 I currentyly volunteer at <a href="https://www.linkedin.com/company/her-braces/" target="_blank">HerBraces</a>, where girls
 are taught to program.
 
-I am open for new roles.
+📈 I am open for new roles.
 
-You may reach me on vitusvictor41@gmail.com.
+📩 You may reach me on vitusvictor41@gmail.com.
+
+🎮 More on me: the game of chess loves having me play it.
 
 ---
 
-Let's connect:
+🚀 Let's connect:
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/somto-vitus-onyibalu-1485abb5/)
 
