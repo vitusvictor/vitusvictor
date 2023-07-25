@@ -1,5 +1,5 @@
 ### Hello, welcome
-💡 I'm Somtochukwu, a fullstack developer. I write Java (Springboot), Javascript(React) and Python. I occationally do Dart(Flutter).
+💡 I'm Somtochukwu, a fullstack developer. I write Java (Springboot), Javascript (React) and Python. I occationally do Dart (Flutter).
 
 🎯 I currentyly volunteer at <a href="https://www.linkedin.com/company/her-braces/" target="_blank">HerBraces</a>, where girls
 are taught to program.
