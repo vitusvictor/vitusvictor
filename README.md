@@ -6,7 +6,7 @@ are taught to program.
 
 📈 I am open for new roles.
 
-📩 You may reach me on vitusvictor41@gmail.com.
+📩 You may reach me at vitusvictor41@gmail.com.
 
 🎮 More on me: the game of chess loves having me play it.
 
