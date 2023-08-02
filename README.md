@@ -1,9 +1,11 @@
 ### Hello, welcome
-💡 I'm Somtochukwu, a fullstack developer. I write Java (Springboot), Javascript (React) and Python. I occationally do Dart (Flutter).
+💡 I'm Somtochukwu, a fullstack developer. I write Java (Springboot), Javascript (React) and Python but occationally do Dart (Flutter).
+
+I am also versed in the use of a number of banking tools like IBM Integration Bus (IIB), Enterprise Service Bus (ESB), Extended Structured Query Language (ESQL) and SOAP technologies. 
 
 🎯 I currentyly volunteer at <a href="https://www.linkedin.com/company/her-braces/" target="_blank">HerBraces</a>, where girls
 are taught to program.
-
+  
 📈 I am open for new roles.
 
 📩 You may reach me at vitusvictor41@gmail.com.
