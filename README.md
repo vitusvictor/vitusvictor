@@ -1,5 +1,5 @@
 ### Hello, welcome
-💡 I'm Somtochukwu, a fullstack developer. I write Java (Springboot), Javascript (React) and Python. I occationally do Dart (Flutter).
+💡 I'm Somtochukwu, a fullstack developer. I write Java (Springboot), Javascript (React) and Python. I occasionally do Dart (Flutter).
 
 I am also versed in the use of a number of banking tools like IBM Integration Bus (IIB), Enterprise Service Bus (ESB), Extended Structured Query Language (ESQL) and SOAP technologies. 
 
