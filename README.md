@@ -6,7 +6,7 @@ I am also versed in the use of a number of banking tools like IBM Integration Bu
 🎯 I currentyly volunteer at <a href="https://www.linkedin.com/company/her-braces/" target="_blank">HerBraces</a>, where girls
 are taught to program.
   
-📈 I am open for new roles.
+📈 I am open to new roles.
 
 📩 You may reach me at vitusvictor41@gmail.com.
 
